@@ -1,5 +1,7 @@
 import SwiftUI
 
+// Hossein Sharifi
+
 struct MainView: View {
     
     @StateObject var model = Model()
